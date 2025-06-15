@@ -18,7 +18,7 @@ ptj_encoded = 1 if part_time_job == "Yes" else 0
 
 if st.button("Predict Exam Score"):
 
-    input_data = np.array([[study_hours, attendance,mental_health, sleep_hours,part_time_job, ptj_encoded]])
+    input_data = np.array([[study_hours, attendance,mental_health, sleep_hours, ptj_encoded]])
     prediction = model.predict(input_data)[0]
 
     prediction = max(0, min(100,prediction))
