@@ -32,11 +32,14 @@ The model is trained using a dataset of student behavioral attributes and uses a
 
 ---
 
-## 🧪 Demo (Local Preview)
+## 🎥 Reference & Inspiration
 
-### 🔧 1. Clone the Repository
+This project was inspired by the YouTube tutorial:  
+**[Predicting Student Exam Scores with Machine Learning (Full Data Science Project Walkthrough)](https://www.youtube.com/watch?v=XNGgElLhjD4)**  
+by [Data Science with Onur](https://www.youtube.com/@datasciencewithonur)
 
-```bash
-git clone https://github.com/Sutheelovalek/student-habits-model.git
-cd student-habits-model
+[![Watch the video](http://img.youtube.com/vi/XNGgElLhjD4/0.jpg)](https://www.youtube.com/watch?v=XNGgElLhjD4)
+
+> 📺 This video served as the main reference for understanding the concept. The implementation here is customized and adapted by [@Sutheelovalek](https://github.com/Sutheelovalek).
+
 
